@@ -11719,25 +11719,6 @@ section {
   }
 }
 
-#about .about-wrapper__image {
-  height: 100%;
-  justify-content: center;
-  align-items: center;
-  display: flex;
-}
-
-@media (max-width: 75em) {
-  #about .about-wrapper__image {
-    height: 100%;
-  }
-}
-
-@media (max-width: 48em) {
-  #about .about-wrapper__image {
-    padding-bottom: 6.4rem;
-  }
-}
-
 #about .about-wrapper__info {
   height: 100%;
   flex-direction: column;
